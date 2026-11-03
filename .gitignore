@@ -1,0 +1,25 @@
+/ Colcon
+**/build/
+**/install/
+**/log/
+**/launch/*.png
+**/launch/*.jpg
+**/launch/*.gif
+
+
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.pytest_cache/
+**/model/best_model.pth
+*.py[cod]
+
+
+
+**/.vscode/
+**/.idea/
+
+.DS_Store
+*.log
+*~
+
