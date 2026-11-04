@@ -13,6 +13,7 @@
 **/.pytest_cache/
 **/model/best_model.pth
 *.py[cod]
+**/src/OnnxTest.cpp
 
 
 
